@@ -150,7 +150,7 @@ var _bulan = 'Rp 22.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
-zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'MWF2X6D4kjLLkpjnD2lWU4cHdIe' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 fthumb = setting.fakethumb
@@ -3112,7 +3112,7 @@ break
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/6285235099466
 
 
 NOTE : 
